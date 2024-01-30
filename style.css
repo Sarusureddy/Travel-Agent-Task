@@ -1,0 +1,34 @@
+.section-search input{
+  padding: 10px !important;
+  font-size: 25px !important;
+  width: 200% !important;
+  border: ##a83632 3px solid !important;
+}
+.fa{
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    margin: 5px 2px;
+    border-radius: 30%;
+    text-decoration: none;
+}
+.fa:hover{
+    opacity: 0.8;
+    
+}
+.fa-facebook {
+    background-color:#1d14d9;
+        color:white;
+}    
+.fa-twitter {
+    background-color:#32a897;
+        color:white;
+}    
+    
+.fa-instagram {
+    background-color:#e612e6;
+        color:white;
+}    
+  
+    
